@@ -5,6 +5,6 @@ docker run -it ifort /bin/bash
 ```
 or
 ```
-docker push dqx0/ifort:
+docker push dqx0/ifort:latest
 docker run -it ifort /bin/bash
 ```
